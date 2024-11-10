@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ## I read a tutorial that suggested to contribute before starting a project  
 ## I can suggest other poeple to do the same but not really because I was afraid to dive in but I can contribute and with the communinity I am convinced that you will show me that way
 ## Please be authentic I realize that their are many tools to aid me in this new venture and I will never pretend to do or be something I am not or does not represent me
+- Will integrate new project to keep stats of my on going daily motivation by measuring with significant actions
+- 
